@@ -12,6 +12,8 @@ Filling out and printing the table takes slightly longer with N^2. However, the 
 # N primes
 The prime number generator by default generates array of 10 prime numbers, but when argument is provided, the function can also return N number of primes.
 # External dependency
-To create matrix that holds the multiplication table, mathjs has been imported. 
+To create matrix that holds the multiplication table, mathjs has been imported.
+On terminal, running "npm install mathjs" can initiate install of mathjs.
 # Running instruction
+First, mathjs must be installed.
 The code runs on node with mathjs installed. On Terminal, "node PrimeNumberGenerator.js" can be ran to print the multiplication table.
