@@ -5,6 +5,12 @@ PrimeNumberGenerator.js file consists of three big parts:
   2. Creating object to hold multiplication values
   3. Filling out multiplication and printing the table
 Each part was first implemented with basic idea, than re-factored for better performance. The simple versions of each tasks are commented out above of the optimized code as reference.
+
+#Generating prime numbers
+
+#Creating object
+#Filling out multiplication and printing the table
+
 # Complexity
 Each part of the code has different complexity, needed to be added at the end.
 For generating prime number, the complexity comes out to be N*(sqrt(N)), because the inner loop of the algorithm does not run for N, but square root of it. 
